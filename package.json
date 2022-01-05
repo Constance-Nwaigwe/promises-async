@@ -1,0 +1,25 @@
+{
+  "name": "promises-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Constance-Nwaigwe/promises-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Constance-Nwaigwe/promises-async/issues"
+  },
+  "homepage": "https://github.com/Constance-Nwaigwe/promises-async#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
